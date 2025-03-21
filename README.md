@@ -72,7 +72,8 @@ Use the following link to access the micro:bit code and upload it to your Maquee
 
 Look of the **Maqueen** first-hand:
 
-![Uploading 20250319_114806.jpg…]()
+![20250319_114806](https://github.com/user-attachments/assets/586dffbc-ddb1-42c5-aea5-2ecd1d254a65)
+
 
 
 ---
