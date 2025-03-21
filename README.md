@@ -82,7 +82,8 @@ Use the following link to access the micro:bit code and upload it to your Maquee
 
 ## 📸 Joystick Interface Preview  
 
-*(Insert a screenshot of the joystick UI here 📷)*  
+ ![joy](https://github.com/user-attachments/assets/5cf8d776-7b0f-4fce-ad02-b082e4a97554)
+
 
 ---
 
