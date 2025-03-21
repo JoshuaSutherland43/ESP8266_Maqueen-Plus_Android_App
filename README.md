@@ -71,6 +71,7 @@ Use the following link to access the micro:bit code and upload it to your Maquee
 🔗 **[Maqueen micro:bit Code](https://makecode.microbit.org/_i45P0oazKhjE)**  
 
 Look of the **Maqueen** first-hand:
+
 ![20250319_114806](https://github.com/user-attachments/assets/4ef3cad3-49f1-459c-964b-02793cd003c4)
 
 
